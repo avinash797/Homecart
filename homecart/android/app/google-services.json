@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066823584411",
+    "firebase_url": "https://homecart-1e991.firebaseio.com",
+    "project_id": "homecart-1e991",
+    "storage_bucket": "homecart-1e991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066823584411:android:2643ece98da0c9280f943e",
+        "android_client_info": {
+          "package_name": "com.example.homecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066823584411-00brvfta6j2agfbakt4cn3d761rlfbor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homecart",
+            "certificate_hash": "526757a338962291ec3afa4aff6d8f47b9796787"
+          }
+        },
+        {
+          "client_id": "1066823584411-640282f1dsooingbb9iejcp82jt7i9m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPL281TSFRaXFHsSj2uzR3NGs1_0mhnBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066823584411-640282f1dsooingbb9iejcp82jt7i9m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
